@@ -1,2 +1,5 @@
 # acadnusx2geo
-convert acadnusx to georgian within docx file
+AcadNusx ფონტით დაწერილი ტექსტის Sylfaen-ში გადაყვანა ვორდის (.docx) ფაილში.
+
+მაგ. 
+teqsti -> ტექსტი
